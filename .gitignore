@@ -1,0 +1,6 @@
+#Ignore .venv
+.venv/
+
+
+#Ignore test python nb
+test*.ipynb
