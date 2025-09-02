@@ -24,3 +24,7 @@ https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukt
 Counting-station locations: 
 ---
 https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten/daten-publikationen/automatische-strassenverkehrszaehlung/messstellennetz.html 
+
+NABEL measuring locations: 
+---
+https://www.bafu.admin.ch/bafu/en/home/topics/air/luftbelastung/national-air-pollution-monitoring-network--nabel-.html 
