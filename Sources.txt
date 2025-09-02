@@ -20,3 +20,7 @@ https://www.bafu.admin.ch/bafu/en/home/topics/air/luftbelastung/data/data-query-
 Swiss automatic road traffic counts: 
 ---
 https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten/daten-publikationen/automatische-strassenverkehrszaehlung/monats-jahresergebnisse.html
+
+Counting-station locations: 
+---
+https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten/daten-publikationen/automatische-strassenverkehrszaehlung/messstellennetz.html 
