@@ -6,6 +6,22 @@ Transportation:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en
 
-Passenger Car Type:
+Passenger Car Motor Type:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carmot__custom_17928586/default/table
+
+Passenger Car Age:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_17929481/default/table
+
+Bus Motor Type:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busmot__custom_17929590/default/table
+
+Bus Age:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busage__custom_17929626/default/table
+
+GDP per Capita:
+---
+https://ec.europa.eu/eurostat/databrowser/view/sdg_08_10/default/table?lang=en
