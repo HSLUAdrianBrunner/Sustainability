@@ -10,6 +10,7 @@ Passenger Car Motor Type:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carmot__custom_17928586/default/table
 
+<<<<<<< HEAD
 Passenger Car Age:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_17929481/default/table
@@ -25,3 +26,23 @@ https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busage__custom_17929626/
 GDP per Capita:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/sdg_08_10/default/table?lang=en
+=======
+
+#####################################################
+
+Data query NABEL:
+---
+https://www.bafu.admin.ch/bafu/en/home/topics/air/luftbelastung/data/data-query-nabel.html 
+
+Swiss automatic road traffic counts: 
+---
+https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten/daten-publikationen/automatische-strassenverkehrszaehlung/monats-jahresergebnisse.html
+
+Counting-station locations: 
+---
+https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukte/verkehrsdaten/daten-publikationen/automatische-strassenverkehrszaehlung/messstellennetz.html 
+
+NABEL measuring locations: 
+---
+https://www.bafu.admin.ch/bafu/en/home/topics/air/luftbelastung/national-air-pollution-monitoring-network--nabel-.html 
+>>>>>>> 8b5312054d23236511524f12bc7ed6a8a7c9f6d1

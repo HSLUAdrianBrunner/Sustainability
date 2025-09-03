@@ -4,3 +4,5 @@
 
 #Ignore test python nb
 test*.ipynb
+
+.idea/
