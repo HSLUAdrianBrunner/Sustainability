@@ -10,7 +10,6 @@ Passenger Car Motor Type:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carmot__custom_17928586/default/table
 
-<<<<<<< HEAD
 Passenger Car Age:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_17929481/default/table
@@ -26,7 +25,14 @@ https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busage__custom_17929626/
 GDP per Capita:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/sdg_08_10/default/table?lang=en
-=======
+
+Population density:
+---
+https://ec.europa.eu/eurostat/databrowser/view/tps00003/default/table
+
+Population:
+---
+https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en&category=t_reg.t_reg_dem
 
 #####################################################
 
