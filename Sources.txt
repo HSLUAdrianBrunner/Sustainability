@@ -6,10 +6,37 @@ Transportation:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/TRAN_HV_PSMOD/default/table?lang=en
 
-Passenger Car Type:
+Passenger Car Motor Type:
 ---
 https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carmot__custom_17928586/default/table
 
+Passenger Car Age:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_17929481/default/table
+
+Bus Motor Type:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busmot__custom_17929590/default/table
+
+Bus Age:
+---
+https://ec.europa.eu/eurostat/databrowser/view/road_eqs_busage__custom_17929626/default/table
+
+GDP per Capita:
+---
+https://ec.europa.eu/eurostat/databrowser/view/sdg_08_10/default/table?lang=en
+
+Population density:
+---
+https://ec.europa.eu/eurostat/databrowser/view/tps00003/default/table
+
+Population:
+---
+https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en&category=t_reg.t_reg_dem
+
+Population age:
+---
+https://ec.europa.eu/eurostat/databrowser/view/tps00010/default/table?lang=en&category=t_demo.t_demo_ind
 
 #####################################################
 
@@ -28,3 +55,4 @@ https://www.astra.admin.ch/astra/de/home/dokumentation/daten-informationsprodukt
 NABEL measuring locations: 
 ---
 https://www.bafu.admin.ch/bafu/en/home/topics/air/luftbelastung/national-air-pollution-monitoring-network--nabel-.html 
+>>>>>>> 8b5312054d23236511524f12bc7ed6a8a7c9f6d1
