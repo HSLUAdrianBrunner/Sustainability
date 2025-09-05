@@ -1,6 +1,8 @@
 #Ignore .venv
 .venv/
 
+#Ignore Presentation
+*.pptx
 
 #Ignore test python nb
 test*.ipynb
