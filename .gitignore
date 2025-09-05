@@ -6,3 +6,5 @@
 test*.ipynb
 
 .idea/
+
+swiss_pollution_vs_traffic_eni_try_end_error.ipynb
